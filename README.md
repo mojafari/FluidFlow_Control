@@ -17,6 +17,11 @@ The objective of this work is to develop and validate a learning-based control f
 All source code, datasets, and supporting materials are publicly available.
 
 
+## Read the full paper
+
+You can read the full paper [here](https://www.mdpi.com/2079-9292/15/5/953).
+
+
 ## Citation
 
 If you use this work in your research, please cite the associated paper.  
